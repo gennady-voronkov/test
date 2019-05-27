@@ -1,0 +1,3 @@
+# kubectl apply -f cassandra.yaml
+# helm install --name spark-release -f spark_values.yaml stable/spark
+# helm install --name spark-release -f ignite_values.yaml stable/ignite
